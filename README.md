@@ -1,4 +1,4 @@
-# Local Configuration For Cloud Infrastructure
+# Configuration For Cloud Infrastructure
 
 ## Cloudflare proxy
 
